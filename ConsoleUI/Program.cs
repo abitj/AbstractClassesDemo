@@ -10,10 +10,7 @@ namespace ConsoleUI
     {
         static void Main(string[] args)
         {
-            /*
-             * Todo follow all comments!! 
-             */
-
+            
             #region Vehicles
 
             /*
